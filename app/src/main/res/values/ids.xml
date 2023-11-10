@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pos_1" type="id" />
+    <item name="pos_4" type="id" />
+    <item name="tableLayout" type="id" />
+    <item name="pos_7" type="id" />
+    <item name="pos_2" type="id" />
+    <item name="pos_5" type="id" />
+    <item name="pos_8" type="id" />
+    <item name="pos_10" type="id" />
+    <item name="pos_3" type="id" />
+    <item name="pos_6" type="id" />
+    <item name="pos_9" type="id" />
+</resources>

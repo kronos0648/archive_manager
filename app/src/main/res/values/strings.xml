@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">archive_manager</string>
+    <string name="pos1">①</string>
+    <string name="pos4">④</string>
+    <string name="pos7">⑦</string>
+    <string name="pos2">②</string>
+    <string name="pos5">⑤</string>
+    <string name="pos8">⑧</string>
+    <string name="pos10">⑩</string>
+    <string name="pos3">③</string>
+    <string name="pos6">⑥</string>
+    <string name="pos9">⑨</string>
+    <string name="num_default">0</string>
+    <string name="left_sign"><![CDATA[<]]></string>
+    <string name="right_sign"><![CDATA[>]]></string>
+    <string-array name="str_num">
+        <item>①</item>
+        <item>②</item>
+        <item>③</item>
+        <item>④</item>
+        <item>⑤</item>
+        <item>⑥</item>
+        <item>⑦</item>
+        <item>⑧</item>
+        <item>⑨</item>
+        <item>⑩</item>
+
+    </string-array>
+
+    <string name="tag_copyright">Copyright by 안성현\n(수원출입국외국인청 사회복무요원(2021.4.22~2023.1.21)</string>
+</resources>
